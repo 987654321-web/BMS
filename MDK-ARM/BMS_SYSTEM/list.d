@@ -1,0 +1,12 @@
+bms_system\list.o: ..\FreeRTOS\source\list.c
+bms_system\list.o: D:\SolfWare\KEIL5\ARM\ARMCC\Bin\..\include\stdlib.h
+bms_system\list.o: ../FreeRTOS/include/FreeRTOS.h
+bms_system\list.o: D:\SolfWare\KEIL5\ARM\ARMCC\Bin\..\include\stddef.h
+bms_system\list.o: D:\SolfWare\KEIL5\ARM\ARMCC\Bin\..\include\stdint.h
+bms_system\list.o: ../Core/Inc/FreeRTOSConfig.h
+bms_system\list.o: ../FreeRTOS/include/projdefs.h
+bms_system\list.o: ../FreeRTOS/include/portable.h
+bms_system\list.o: ../FreeRTOS/include/deprecated_definitions.h
+bms_system\list.o: ../FreeRTOS/portable/RVDS/ARM_CM3/portmacro.h
+bms_system\list.o: ../FreeRTOS/include/mpu_wrappers.h
+bms_system\list.o: ../FreeRTOS/include/list.h

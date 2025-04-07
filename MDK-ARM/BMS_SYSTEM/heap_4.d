@@ -1,0 +1,14 @@
+bms_system\heap_4.o: ..\FreeRTOS\portable\MemMang\heap_4.c
+bms_system\heap_4.o: D:\SolfWare\KEIL5\ARM\ARMCC\Bin\..\include\stdlib.h
+bms_system\heap_4.o: D:\SolfWare\KEIL5\ARM\ARMCC\Bin\..\include\string.h
+bms_system\heap_4.o: ../FreeRTOS/include/FreeRTOS.h
+bms_system\heap_4.o: D:\SolfWare\KEIL5\ARM\ARMCC\Bin\..\include\stddef.h
+bms_system\heap_4.o: D:\SolfWare\KEIL5\ARM\ARMCC\Bin\..\include\stdint.h
+bms_system\heap_4.o: ../Core/Inc/FreeRTOSConfig.h
+bms_system\heap_4.o: ../FreeRTOS/include/projdefs.h
+bms_system\heap_4.o: ../FreeRTOS/include/portable.h
+bms_system\heap_4.o: ../FreeRTOS/include/deprecated_definitions.h
+bms_system\heap_4.o: ../FreeRTOS/portable/RVDS/ARM_CM3/portmacro.h
+bms_system\heap_4.o: ../FreeRTOS/include/mpu_wrappers.h
+bms_system\heap_4.o: ../FreeRTOS/include/task.h
+bms_system\heap_4.o: ../FreeRTOS/include/list.h
